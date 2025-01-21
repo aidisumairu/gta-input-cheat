@@ -1,0 +1,688 @@
+{
+    "cheats":[
+        {
+            "input": "HESOYAM",
+            "description": "$250,000, Full Health, and Full Armor"
+        },
+        {
+            "input": "INEEDSOMEHELP",
+            "description": "$250,000, Full Health, and Full Armor"
+        },
+        {
+            "input": "MUNASEF",
+            "description": "Adrenaline"
+        },
+        {
+            "input": "ANOSEONGLASS",
+            "description": "Adrenaline"
+        },
+        {
+            "input": "EXPANDDOME",
+            "description": "Big Head Mode"
+        },
+        {
+            "input": "AEDUWNV",
+            "description": "CJ Never Becomes Hungry"
+        },
+        {
+            "input": "IAMNEVERHUNGRY",
+            "description": "CJ Never Becomes Hungry"
+        },
+        {
+            "input": "PPGWJHT",
+            "description": "Fast Gameplay"
+        },
+        {
+            "input": "SPEEDITUP",
+            "description": "Fast Gameplay"
+        },
+        {
+            "input": "LIYOAAY",
+            "description": "Slow Down Gameplay"
+        },
+        {
+            "input": "SLOWITDOWN",
+            "description": "Slow Down Gameplay"
+        },
+        {
+            "input": "YSOHNUL",
+            "description": "Time Passes Faster"
+        },
+        {
+            "input": "TIMEJUSTFLIESBY",
+            "description": "Time Passes Faster"
+        },
+        {
+            "input": "LXGIWYL",
+            "description": "Give Weapons 1"
+        },
+        {
+            "input": "THUGSARMOURY",
+            "description": "Give Weapons 1"
+        },
+        {
+            "input": "KJKSZPJ",
+            "description": "Give Weapons 2"
+        },
+        {
+            "input": "PROFESSIONALSKIT",
+            "description": "Give Weapons 2"
+        },
+        {
+            "input": "UZUMYMW",
+            "description": "Give Weapons 3"
+        },
+        {
+            "input": "NUTTERSTOYS",
+            "description": "Give Weapons 3"
+        },
+        {
+            "input": "NCSGDAG",
+            "description": "Hitman"
+        },
+        {
+            "input": "PROFESSIONALKILLER",
+            "description": "Hitman"
+        },
+        {
+            "input": "WANRLTW",
+            "description": "Infinite Ammo"
+        },
+        {
+            "input": "FULLCLIP",
+            "description": "Infinite Ammo"
+        },
+        {
+            "input": "BAGUVIX",
+            "description": "Infinite Health / Invincibility"
+        },
+        {
+            "input": "CVWKXAM",
+            "description": "Infinite Lung Capacity"
+        },
+        {
+            "input": "MANFROMATLANTIS",
+            "description": "Infinite Lung Capacity"
+        },
+        {
+            "input": "YECGAA",
+            "description": "Jetpack"
+        },
+        {
+            "input": "ROCKETMAN",
+            "description": "Jetpack"
+        },
+        {
+            "input": "AEZAKMI",
+            "description": "Lock Wanted Level"
+        },
+        {
+            "input": "IDOASIPLEASE",
+            "description": "Lock Wanted Level"
+        },
+        {
+            "input": "TURNDOWNTHEHEAT",
+            "description": "Lower Wanted Level"
+        },
+        {
+            "input": "ASNAEB",
+            "description": "Lower Wanted Level"
+        },
+        {
+            "input": "TURNUPTHEHEAT",
+            "description": "Raise Wanted Level"
+        },
+        {
+            "input": "OSRBLHH",
+            "description": "Raise Wanted Level"
+        },
+        {
+            "input": "LJSPQK",
+            "description": "Six-Star Wanted Level"
+        },
+        {
+            "input": "BRINGITON",
+            "description": "Six-Star Wanted Level"
+        },
+        {
+            "input": "BTCDBCB",
+            "description": "Maximum Fat"
+        },
+        {
+            "input": "WHOATEALLTHEPIES",
+            "description": "Maximum Fat"
+        },
+        {
+            "input": "JYSDSOD",
+            "description": "Maximum Muscle"
+        },
+        {
+            "input": "BUFFMEUP",
+            "description": "Maximum Muscle"
+        },
+        {
+            "input": "OGXSDAG",
+            "description": "Maximum Respect"
+        },
+        {
+            "input": "WORSHIPME",
+            "description": "Maximum Respect"
+        },
+        {
+            "input": "EHIBXQS",
+            "description": "Maximum Sex Appeal"
+        },
+        {
+            "input": "HELLOLADIES",
+            "description": "Maximum Sex Appeal"
+        },
+        {
+            "input": "VQIMAHA",
+            "description": "Maximum Vehicle Skill Stats"
+        },
+        {
+            "input": "NATURALTALENT",
+            "description": "Maximum Vehicle Skill Stats"
+        },
+        {
+            "input": "KVGYZQK",
+            "description": "Minimum Fat and Muscle"
+        },
+        {
+            "input": "LEANANDMEAN",
+            "description": "Minimum Fat and Muscle"
+        },
+        {
+            "input": "AIYPWZQP",
+            "description": "Parachute"
+        },
+        {
+            "input": "LETSGOBASEJUMPING",
+            "description": "Parachute"
+        },
+        {
+            "input": "SZCMAWO",
+            "description": "Suicide"
+        },
+        {
+            "input": "GOODBYECRUELWORLD",
+            "description": "Suicide"
+        },
+        {
+            "input": "LFGMHAL",
+            "description": "Super Jump"
+        },
+        {
+            "input": "KANGAROO",
+            "description": "Super Jump"
+        },
+        {
+            "input": "IAVENJQ",
+            "description": "Super Punch"
+        },
+        {
+            "input": "STINGLIKEABEE",
+            "description": "Super Punch"
+        },
+        {
+            "input": "JHJOECW",
+            "description": "Bike Super Jump"
+        },
+        {
+            "input": "CJPHONEHOME",
+            "description": "Bike Super Jump"
+        },
+        {
+            "input": "GKPNMQ",
+            "description": "Cars Drive on Water"
+        },
+        {
+            "input": "DRIVEONWATER",
+            "description": "Cars Drive on Water"
+        },
+        {
+            "input": "BSXSGGC",
+            "description": "Cars Float Away When Hit"
+        },
+        {
+            "input": "BUBBLECARS",
+            "description": "Cars Float Away When Hit"
+        },
+        {
+            "input": "COXEFGU",
+            "description": "Cars Have Nitrous Oxide Systems"
+        },
+        {
+            "input": "SPEEDFREAK",
+            "description": "Cars Have Nitrous Oxide Systems"
+        },
+        {
+            "input": "VKYPQCF",
+            "description": "Taxis Have Nitrous and Hydraulics"
+        },
+        {
+            "input": "TAXINITRO",
+            "description": "Taxis Have Nitrous and Hydraulics"
+        },
+        {
+            "input": "CPKTNWT",
+            "description": "Destroy All Cars"
+        },
+        {
+            "input": "ALLCARSGOBOOM",
+            "description": "Destroy All Cars"
+        },
+        {
+            "input": "AFSNMSMW",
+            "description": "Flying Boats"
+        },
+        {
+            "input": "FLYINGFISH",
+            "description": "Flying Boats"
+        },
+        {
+            "input": "RIPAZHA",
+            "description": "Flying Cars"
+        },
+        {
+            "input": "CHITTYCHITTYBANGBANG",
+            "description": "Flying Cars"
+        },
+        {
+            "input": "OUIQDMW",
+            "description": "Free Aim in Cars"
+        },
+        {
+            "input": "IWANNADRIVEBY",
+            "description": "Free Aim in Cars"
+        },
+        {
+            "input": "XICWMD",
+            "description": "Invisible Cars"
+        },
+        {
+            "input": "WHEELSONLYPLEASE",
+            "description": "Invisible Cars"
+        },
+        {
+            "input": "PGGOMOY",
+            "description": "Perfect Handling"
+        },
+        {
+            "input": "STICKLIKEGLUE",
+            "description": "Perfect Handling"
+        },
+        {
+            "input": "TOUCHMYCARYOUDIE",
+            "description": "Your Car is Invincible"
+        },
+        {
+            "input": "JCNRUAD",
+            "description": "Your Car is Invincible"
+        },
+        {
+            "input": "CQZIJMB",
+            "description": "Spawn Bloodring Banger"
+        },
+        {
+            "input": "OLDSPEEDDEMON",
+            "description": "Spawn Bloodring Banger"
+        },
+        {
+            "input": "RZHSUEW",
+            "description": "Spawn Caddy"
+        },
+        {
+            "input": "18HOLES",
+            "description": "Spawn Caddy"
+        },
+        {
+            "input": "EEGCYXT",
+            "description": "Spawn Dozer"
+        },
+        {
+            "input": "ITSALLBULL",
+            "description": "Spawn Dozer"
+        },
+        {
+            "input": "VROCKPOKEY",
+            "description": "Spawn Hotring Racer 1"
+        },
+        {
+            "input": "VPJTQWV",
+            "description": "Spawn Hotring Racer 2"
+        },
+        {
+            "input": "JUSTTRYANDSTOPME",
+            "description": "Spawn Hotring Racer 2"
+        },
+        {
+            "input": "OHDUDE",
+            "description": "Spawn Hunter"
+        },
+        {
+            "input": "JUMPJET",
+            "description": "Spawn Hydra"
+        },
+        {
+            "input": "AGBDLCID",
+            "description": "Spawn Monster"
+        },
+        {
+            "input": "MONSTERMASH",
+            "description": "Spawn Monster"
+        },
+        {
+            "input": "AKJJYGLC",
+            "description": "Spawn Quadbike"
+        },
+        {
+            "input": "FOURWHEELFUN",
+            "description": "Spawn Quadbike"
+        },
+        {
+            "input": "JQNTDMH",
+            "description": "Spawn Rancher"
+        },
+        {
+            "input": "DOUGHNUTHANDICAP",
+            "description": "Spawn Rancher"
+        },
+        {
+            "input": "AIWPRTON",
+            "description": "Spawn Rhino Tank"
+        },
+        {
+            "input": "TIMETOKICKASS",
+            "description": "Spawn Rhino Tank"
+        },
+        {
+            "input": "AQTBCODX",
+            "description": "Spawn Romero"
+        },
+        {
+            "input": "WHERESTHEFUNERAL",
+            "description": "Spawn Romero"
+        },
+        {
+            "input": "KRIJEBR",
+            "description": "Spawn Stretch"
+        },
+        {
+            "input": "CELEBRITYSTATUS",
+            "description": "Spawn Stretch"
+        },
+        {
+            "input": "URKQSRK",
+            "description": "Spawn Stunt Plane"
+        },
+        {
+            "input": "FLYINGTOSTUNT",
+            "description": "Spawn Stunt Plane"
+        },
+        {
+            "input": "AMOMHRER",
+            "description": "Spawn Tanker"
+        },
+        {
+            "input": "HITTHEROADJACK",
+            "description": "Spawn Tanker"
+        },
+        {
+            "input": "UBHYZHQ",
+            "description": "Spawn Trashmaster"
+        },
+        {
+            "input": "TRUEGRIME",
+            "description": "Spawn Trashmaster"
+        },
+        {
+            "input": "KGGGDKP",
+            "description": "Spawn Vortex"
+        },
+        {
+            "input": "IWANTTOHOVER",
+            "description": "Spawn Vortex"
+        },
+        {
+            "input": "YLTEICZ",
+            "description": "Aggressive Drivers / Traffic"
+        },
+        {
+            "input": "ALLDRIVERSARECRIMINALS",
+            "description": "Aggressive Drivers / Traffic"
+        },
+        {
+            "input": "SOLONGASITSBLACK",
+            "description": "All Traffic Vehicles are Black"
+        },
+        {
+            "input": "IOWDLAC",
+            "description": "All Traffic Vehicles are Black"
+        },
+        {
+            "input": "EVERYONEISPOOR",
+            "description": "All Traffic Vehicles are Junk Cars"
+        },
+        {
+            "input": "BGKGTJH",
+            "description": "All Traffic Vehicles are Junk Cars"
+        },
+        {
+            "input": "PINKISTHENEWCOOL",
+            "description": "All Traffic Vehicles are Pink"
+        },
+        {
+            "input": "LLQPFBN",
+            "description": "All Traffic Vehicles are Pink"
+        },
+        {
+            "input": "GUSNHDE",
+            "description": "All Traffic Vehicles are Sports Cars"
+        },
+        {
+            "input": "EVERYONEISRICH",
+            "description": "All Traffic Vehicles are Sports Cars"
+        },
+        {
+            "input": "CIKGCGX",
+            "description": "Beach Party Theme"
+        },
+        {
+            "input": "LIFESABEACH",
+            "description": "Beach Party Theme"
+        },
+        {
+            "input": "PRIEBJ",
+            "description": "Carnival Theme"
+        },
+        {
+            "input": "CRAZYTOWN",
+            "description": "Carnival Theme"
+        },
+        {
+            "input": "ASBHGRB",
+            "description": "Elvis Theme"
+        },
+        {
+            "input": "BLUESUEDESHOES",
+            "description": "Elvis Theme"
+        },
+        {
+            "input": "BEKKNQV",
+            "description": "Kinky Theme"
+        },
+        {
+            "input": "LOVECONQUERSALL",
+            "description": "Kinky Theme"
+        },
+        {
+            "input": "FVTMNBZ",
+            "description": "Rural Theme"
+        },
+        {
+            "input": "HICKSVILLE",
+            "description": "Rural Theme"
+        },
+        {
+            "input": "AFPHULTL",
+            "description": "Yakuza Theme"
+        },
+        {
+            "input": "NINJATOWN",
+            "description": "Yakuza Theme"
+        },
+        {
+            "input": "THGLOJ",
+            "description": "No Pedestrians and Low Traffic"
+        },
+        {
+            "input": "GHOSTTOWN",
+            "description": "No Pedestrians and Low Traffic"
+        },
+        {
+            "input": "IOJUFZN",
+            "description": "Pedestrian Riot"
+        },
+        {
+            "input": "STATEOFEMERGENCY",
+            "description": "Pedestrian Riot"
+        },
+        {
+            "input": "FOOOXFT",
+            "description": "Pedestrians Have Weapons"
+        },
+        {
+            "input": "SURROUNDEDBYNUTTERS",
+            "description": "Pedestrians Have Weapons"
+        },
+        {
+            "input": "BAGOWPG",
+            "description": "Pedestrians Attack 1"
+        },
+        {
+            "input": "STOPPICKINGONME",
+            "description": "Pedestrians Attack 1"
+        },
+        {
+            "input": "BGLUAWML",
+            "description": "Pedestrians Attack 2"
+        },
+        {
+            "input": "ATTACKOFTHEVILLAGEPEOPLE",
+            "description": "Pedestrians Attack 2"
+        },
+        {
+            "input": "AJLOJYQY",
+            "description": "Pedestrian Wars"
+        },
+        {
+            "input": "ROUGHNEIGHBOURHOOD",
+            "description": "Pedestrian Wars"
+        },
+        {
+            "input": "DONTTRYANDSTOPME",
+            "description": "Traffic Lights Stay Green"
+        },
+        {
+            "input": "ZEIIVG",
+            "description": "Traffic Lights Stay Green"
+        },
+        {
+            "input": "MROEMZH",
+            "description": "Fast Gang Member Spawns"
+        },
+        {
+            "input": "ONLYHOMIESALLOWED",
+            "description": "Fast Gang Member Spawns"
+        },
+        {
+            "input": "BIFBUZZ",
+            "description": "Only Gangs in Streets"
+        },
+        {
+            "input": "BETTERSTAYINDOORS",
+            "description": "Only Gangs in Streets"
+        },
+        {
+            "input": "SJMAHPE",
+            "description": "Recruit Anyone with AK-47"
+        },
+        {
+            "input": "WANNABEINMYGANG",
+            "description": "Recruit Anyone with AK-47"
+        },
+        {
+            "input": "SSOXFSQ",
+            "description": "Recruit Anyone with Rocket Launcher"
+        },
+        {
+            "input": "ROCKETMAYHEM",
+            "description": "Recruit Anyone with Rocket Launcher"
+        },
+        {
+            "input": "OFVIAC",
+            "description": "Always 21:00 With Orange Sky"
+        },
+        {
+            "input": "DONTBRINGONTHENIGHT",
+            "description": "Always 21:00 With Orange Sky"
+        },
+        {
+            "input": "XJVSNAJ",
+            "description": "Always Midnight"
+        },
+        {
+            "input": "NIGHTPROWLER",
+            "description": "Always Midnight"
+        },
+        {
+            "input": "CFVFGMJ",
+            "description": "Foggy Weather"
+        },
+        {
+            "input": "CANTSEEWHEREIMGOING",
+            "description": "Foggy Weather"
+        },
+        {
+            "input": "ALNSFMZO",
+            "description": "Overcast Weather"
+        },
+        {
+            "input": "DULLDULLDAY",
+            "description": "Overcast Weather"
+        },
+        {
+            "input": "CWJXUOC",
+            "description": "Sandstorm"
+        },
+        {
+            "input": "SANDINMYEARS",
+            "description": "Sandstorm"
+        },
+        {
+            "input": "AUIFRVQS",
+            "description": "Stormy Weather"
+        },
+        {
+            "input": "STAYINANDWATCHTV",
+            "description": "Stormy Weather"
+        },
+        {
+            "input": "MGHXYR",
+            "description": "Sunny Weather"
+        },
+        {
+            "input": "SCOTTISHSUMMER",
+            "description": "Sunny Weather"
+        },
+        {
+            "input": "ICIKPYH",
+            "description": "Very Sunny Weather"
+        },
+        {
+            "input": "TOODAMNHOT",
+            "description": "Very Sunny Weather"
+        }
+    ]
+}
